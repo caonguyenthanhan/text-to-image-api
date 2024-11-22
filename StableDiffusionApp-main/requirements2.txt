@@ -1,0 +1,7 @@
+torchaudio==0.12.1+cu113
+torchvision==0.13.1+cu113
+tqdm==4.64.1
+transformers==4.22.1
+typing_extensions==4.3.0
+urllib3==1.26.12
+zipp==3.8.1

@@ -1,0 +1,8 @@
+tạo môi trường:
+conda create -n ten_moi_truong python=phien_ban_python 
+
+sử dung môi trường:
+
+Sau khi tạo thành công, bạn cần kích hoạt môi trường mới để sử dụng:
+
+conda activate ten_moi_truong
